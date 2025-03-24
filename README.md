@@ -41,7 +41,7 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-# PROGRAM
+# PROGRAM:
 
 ```
 import random
@@ -262,7 +262,7 @@ if   __name__ == "__main__":
 
 
 
-# OUTPUT
+# OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/883fd0e5-2b01-4d5a-87e4-7695bb2fd27b)
 
@@ -271,6 +271,6 @@ if   __name__ == "__main__":
 
 
 
-# RESULT
+# RESULT:
 
 Thus, an AI agent is developed.
